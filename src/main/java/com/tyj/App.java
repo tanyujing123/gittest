@@ -15,6 +15,7 @@ public class App
 
         System.out.println("Hello World! git5--hotfix commit1");
         System.out.println("hotfix error");
+        System.out.println("master add");
 
     }
 }
