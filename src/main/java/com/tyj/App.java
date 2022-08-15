@@ -14,5 +14,6 @@ public class App
         System.out.println( "Hello World! git4" );
         System.out.println( "Hello World! git5" );
         System.out.println( "Hello World! git5--hotfix commit1" );
+        System.out.println( "hotfix error" );
     }
 }
