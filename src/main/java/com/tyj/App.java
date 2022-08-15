@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello World! git3" );
         System.out.println( "Hello World! git4" );
         System.out.println( "Hello World! git5" );
+        System.out.println( "Hello World! git5--hotfix commit1" );
     }
 }
